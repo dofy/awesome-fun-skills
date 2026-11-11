@@ -16,7 +16,7 @@ Each entry must:
 
 - Search the list first to avoid duplicates.
 - Add one entry per pull request.
-- Add it to both `README.md` and `README.zh-CN.md`, at the bottom of the matching section.
+- Add it to both `README.md` and `README.zh-CN.md`, in alphabetical order within the matching section.
 - Use the format `- [name](link) - Description.` The description starts with an uppercase letter (English) and ends with a period.
 - Do not add star counts or badges to entries.
 - Use a pull request title like `Add skill-name`.
