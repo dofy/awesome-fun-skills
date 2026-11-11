@@ -24,12 +24,15 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) - Strips hedging and defensive phrasing from prose.
 - [caveman](https://github.com/JuliusBrussee/caveman) - Why use many token when few token do trick. Makes the agent talk like a caveman to save tokens.
 - [humanizer](https://github.com/blader/humanizer) - Removes signs of AI-generated writing from text.
+- [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Chinese edition of humanizer that removes signs of AI-generated writing (Chinese).
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) - Stops the agent from burying the answer in paragraph five.
 - [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - Writes in Louis Rossmann's voice instead of AI slop.
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Makes the agent think like the laziest senior dev in the room: the best code is code never written.
 
 ## Grill Me
 
+- [call-me-skill](https://github.com/zarazhangrui/call-me-skill) - An AI voice agent phones you, interviews you, and turns the call into posts.
+- [dbskill](https://github.com/dontbesilent2025/dbskill) - Blunt business diagnosis in dontbesilent's style (Chinese).
 - [founder-skill](https://github.com/Jakeschincariol/founder-skill) - A board trained on Hormozi, Thiel and Jobs stress-tests a business before launch.
 - [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) - Interviews you relentlessly until you and the agent share one understanding of the plan.
 - [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - Turns AI-assisted coding sessions into deliberate practice for the human.
@@ -40,10 +43,12 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 ## Distill a Person
 
 - [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) - Coworker, boss, ex, yourself and immortal skills in one collection (Chinese).
+- [best-minds](https://github.com/Agentchengfeng/best-minds) - Asks who in the world knows this best, then answers as they would (Chinese).
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turns a technical book PDF into a skill you can study and reference.
 - [cangjie-skill](https://github.com/kangarooking/cangjie-skill) - Distills books, long videos and podcasts into executable skills.
 - [cyber-figures](https://github.com/cyber-immortal/cyber-figures) - Distills the most recognizable Chinese internet personalities into skills (Chinese).
 - [distilly](https://github.com/titanwings/distilly) - Formerly "Colleague.skill". Puts a coworker's way of thinking into a bot.
+- [minimalist-entrepreneur](https://github.com/slavingia/skills) - Sahil Lavingia's The Minimalist Entrepreneur as skills.
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - Distills anyone's mental models, decision heuristics and voice into a skill.
 - [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) - Distills and recreates any writing style.
 - [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - A Nuwa-generated advisor for college admissions and careers, modeled on Zhang Xuefeng (Chinese).
@@ -93,6 +98,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 
 ## Design Taste
 
+- [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - Turns any codebase into an interactive single-page HTML course.
 - [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Distinctive, production-grade frontend interfaces, from Anthropic.
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - Editorial magazine and Swiss-style HTML slide decks.
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - Xiaohongshu carousels and WeChat cover pairs.
@@ -126,6 +132,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) - Claude skills, resources and tools.
 - [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - Claude skills, focused on Claude Code.
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) - DESIGN.md and SKILL.md design systems.
+- [LobeHub Skills Marketplace](https://lobehub.com/skills) - Searchable agent skills marketplace with curated collections.
 
 ## Contributing
 

@@ -24,12 +24,15 @@
 - [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) - 删掉文字里的含糊和自我辩护。
 - [caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick。让 agent 像原始人一样说话，省 token。
 - [humanizer](https://github.com/blader/humanizer) - 抹掉文字里的 AI 味。
+- [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - humanizer 中文版，抹掉中文里的 AI 味。
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) - 别把答案埋在第五段。
 - [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - 用 Louis Rossmann 的口吻写作，拒绝 AI 腔。
 - [ponytail](https://github.com/DietrichGebert/ponytail) - 让 agent 像全组最懒的资深开发一样思考：最好的代码是没写的代码。
 
 ## 拷问我
 
+- [call-me-skill](https://github.com/zarazhangrui/call-me-skill) - AI 语音助手给你打电话采访你，再把通话变成可发布的帖子。
+- [dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 风格的毒舌商业诊断。
 - [founder-skill](https://github.com/Jakeschincariol/founder-skill) - 照 Hormozi、Thiel、Jobs 训练的董事会，上线前给生意做压力测试。
 - [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) - 不停追问，直到你和 agent 对计划的理解完全一致。
 - [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - 把 AI 辅助编程变成人的刻意练习。
@@ -40,10 +43,12 @@
 ## 蒸馏一个人
 
 - [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) - 同事、老板、前任、自己、永生.skill 合集。
+- [best-minds](https://github.com/Agentchengfeng/best-minds) - 最强大脑：先问世界上谁最懂这个，再用 TA 的视角回答。
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - 把技术书 PDF 变成可学习、可查阅的 skill。
 - [cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 仓颉.skill：把书、长视频、播客蒸馏成可执行的 skill。
 - [cyber-figures](https://github.com/cyber-immortal/cyber-figures) - 赛博人物库，把中文互联网最有辨识度的人物蒸馏成 skill。
 - [distilly](https://github.com/titanwings/distilly) - 原"同事.skill"，把同事的思维方式装进 bot。
+- [minimalist-entrepreneur](https://github.com/slavingia/skills) - 把 Sahil Lavingia 的《The Minimalist Entrepreneur》做成 skill。
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 女娲.skill：蒸馏任何人的心智模型、决策启发式和表达 DNA。
 - [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) - 写作蒸馏器，复刻任意文风。
 - [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill，女娲生成的高考志愿、考研、职业规划顾问。
@@ -93,6 +98,7 @@
 
 ## 设计品味
 
+- [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - 把任意代码库变成交互式单页 HTML 课程。
 - [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - 有辨识度、可上线的前端界面，Anthropic 官方。
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - 杂志风和瑞士风 HTML 幻灯片。
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 小红书轮播图和公众号封面组合。
@@ -126,6 +132,7 @@
 - [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) - Claude skills、资源和工具。
 - [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - 偏 Claude Code 的 Claude skills。
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) - DESIGN.md 和 SKILL.md 设计系统。
+- [LobeHub Skills Marketplace](https://lobehub.com/skills) - 可搜索的 agent skill 市场，带精选合集。
 
 ## 参与贡献
 
