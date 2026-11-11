@@ -1,88 +1,132 @@
-# Awesome Fun Skills
+# Awesome Fun Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [English](README.md) | 简体中文
 
-> 有趣、有性格、玩得起来的 Agent Skills 精选。不收"又一个代码规范 skill"。
-> Star 数取自 2026-11-11，排序按"有趣程度"而非 star。
+> 有性格、有梗、产出好玩的 Agent Skills，适用于 Claude Code、Codex、Cursor 等 agent。
 
-收录标准：
-- 有梗、有人格、或产出物本身好玩（图、动画、视频、角色）
-- 仍在维护（近 3 个月有提交）
-- 能在 Claude Code / Codex / Cursor 等任一 agent 里直接用
+不收：又一个代码规范 skill。收：改变 agent 说话方式、借用别人的脑子、画画、做动画、做游戏、自我进化的 skill。
 
-## 🧠 人格与说话方式
+## 目录
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 119k | why use many token when few token do trick。原始人说话，省 token |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 189k | 让 agent 像全组最懒的资深开发：最好的代码是没写的代码 |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 61k | 别把答案埋在第五段。ADHD 友好输出 |
-| [blader/humanizer](https://github.com/blader/humanizer) | 68k | 抹掉文字里的 AI 味 |
+- [人格与说话方式](#人格与说话方式)
+- [拷问我](#拷问我)
+- [蒸馏一个人](#蒸馏一个人)
+- [画点什么](#画点什么)
+- [动画与视频](#动画与视频)
+- [角色与游戏](#角色与游戏)
+- [设计品味](#设计品味)
+- [故事与写作](#故事与写作)
+- [Skill 玩 Skill](#skill-玩-skill)
 
-## 🧬 蒸馏一个人
+## 人格与说话方式
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 38k | 女娲.skill：蒸馏任何人的心智模型、决策启发式、表达 DNA |
-| [titanwings/distilly](https://github.com/titanwings/distilly) | 27k | 原"同事.skill"，把同事的思维方式装进 bot |
-| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 11k | 张雪峰.skill，女娲生成的志愿/考研/职业规划顾问 |
-| [tmstack/awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) | 4.6k | 同事 / 老板 / 前任 / 自己 / 永生.skill 大合集 |
-| [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) | 3.1k | 写作蒸馏器，复刻任意文风 |
-| [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 13k | 仓颉.skill：把书、长视频、播客蒸馏成可执行 skill |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 38k | 技术书 PDF 直接变 skill |
+- [caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick。让 agent 像原始人一样说话，省 token。
+- [ponytail](https://github.com/DietrichGebert/ponytail) - 让 agent 像全组最懒的资深开发一样思考：最好的代码是没写的代码。
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd) - 别把答案埋在第五段。
+- [humanizer](https://github.com/blader/humanizer) - 抹掉文字里的 AI 味。
+- [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) - 删掉文字里的含糊和自我辩护。
+- [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - 用 Louis Rossmann 的口吻写作，拒绝 AI 腔。
+- [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - 难题用一页能读的 HTML 回答，而不是一堵文字墙。
 
-## 🎨 画点好玩的
+## 拷问我
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 27k | 真实机器/复杂系统的交互式等距剖面图 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 95k | 任何想法 / 计划 / 代码库变成漂亮的交互图 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 66k | 杂志风编辑式图表，45 种类型 |
-| [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 13k | 小黑怪诞手绘配图，白底 + 红橙蓝批注 |
-| [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | 7.5k | 安静极简 zine 风海报 |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 6.7k | 35 种艺术风格，用代码让画动起来 |
-| [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | 6.5k | 从原则到 SVG 手艺的 logo 设计 |
+- [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) - 不停追问，直到你和 agent 对计划的理解完全一致。
+- [llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - 五位 AI 顾问互相评审，替你做决定。
+- [roast-room](https://github.com/nateherkai/roast-room) - 七位名人创业者顾问辩论并吐槽你的商业点子。
+- [founder-skill](https://github.com/Jakeschincariol/founder-skill) - 照 Hormozi、Thiel、Jobs 训练的董事会，上线前给生意做压力测试。
+- [vibe-check](https://github.com/TexasBedouin/vibe-check) - 把模糊想法变成可执行计划，再狠狠拷问一遍。
+- [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - 把 AI 辅助编程变成人的刻意练习。
 
-## 💅 设计品味（反 AI slop）
+## 蒸馏一个人
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 148k | UI/UX 设计智能：风格、配色、字体搭配大库 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 113k | 给 agent 品味：美术指导 + 参考图 + 浏览器自检 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 108k | 设计词汇表：polish / bolder / critique / audit，抓 AI slop |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 14k | 把 vibecoded 的 AI 脸 UI 改成真设计 |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 30k | 杂志 / 瑞士风 HTML 幻灯片 |
-| [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 11k | diff、计划、数据表变成好看的 HTML 讲解页 |
+- [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 女娲.skill：蒸馏任何人的心智模型、决策启发式和表达 DNA。
+- [distilly](https://github.com/titanwings/distilly) - 原"同事.skill"，把同事的思维方式装进 bot。
+- [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill，女娲生成的高考志愿、考研、职业规划顾问。
+- [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) - 同事、老板、前任、自己、永生.skill 合集。
+- [cyber-figures](https://github.com/cyber-immortal/cyber-figures) - 赛博人物库，把中文互联网最有辨识度的人物蒸馏成 skill。
+- [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) - 写作蒸馏器，复刻任意文风。
+- [cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 仓颉.skill：把书、长视频、播客蒸馏成可执行的 skill。
+- [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - 把技术书 PDF 变成可学习、可查阅的 skill。
 
-## 🎬 炫耀与娱乐
+## 画点什么
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [latent-spaces/brag](https://github.com/latent-spaces/brag) | 21k | 项目做完了？一条命令生成炫耀用的发布短片 |
-| [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 8.5k | AI 写网文全流程：扫榜、拆爆款、伏笔追踪、去 AI 味 |
-| [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 8.2k | 77 个游戏开发 skill：Godot / Unity / Phaser / Bevy … |
-| [daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) | 314 | 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌 |
+- [anatomy](https://github.com/wheresryan22/anatomy) - 真实机器和复杂系统的交互式等距剖面图。
+- [system-atlas](https://github.com/inkboard/system-atlas) - 把架构讨论变成可探索的等距地图集。
+- [archify](https://github.com/tt-a1i/archify) - 把任何想法、计划或代码库变成交互图。
+- [diagram-design](https://github.com/cathrynlavery/diagram-design) - 杂志风编辑式图表，45 种类型。
+- [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - 手绘风动态架构图。
+- [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - 一个 JSON 生成一直在跑的终端风动态图。
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 小黑怪诞手绘配图，白底加红橙蓝批注。
+- [ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) - 小黑 2.0：实物场景配图和长图故事。
+- [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - 安静极简的 zine 风海报。
+- [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - 把日常照片变成诗意的白纸手绘。
+- [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - 把照片提炼成留白的编辑式抽象画。
+- [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - 把旅行照片做成可收藏的贴纸卡。
+- [guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) - 营造.skill：把中国建筑和旅行照片变成有美术指导的编辑作品。
+- [xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) - 电影感东方仙侠画面、天界和空中巨构。
+- [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - 从原则、流程到 SVG 手艺的 logo 设计。
+- [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - 用 p5.js 做生成艺术，Anthropic 官方。
+- [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - 输出 PNG 和 PDF 的海报与视觉作品，Anthropic 官方。
+- [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - 适配 Slack 尺寸的动图，Anthropic 官方。
 
-## 🧪 Skill 玩 Skill
+## 动画与视频
 
-| Skill | ⭐ | 一句话 |
-|---|---|---|
-| [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) | 6.9k | 达尔文.skill：评估、改进、测试、保留或回滚，让 skill 自己进化 |
-| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 8.8k | 逆向任意 app、重建、找 bug、再修掉用户吐槽 |
+- [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - 35 种艺术风格，用代码让画动起来。
+- [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 种代码动画风格，带参考静帧和离线挑选器。
+- [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - 3D 世界里的 2D 角色动画短片，基于 three.js 和 Remotion。
+- [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - 输入话题，输出带旁白的讲解视频。
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - 基于 Remotion 镜头配方的电影感可编辑产品宣传片。
+- [video-spec-builder](https://github.com/feicaiclub/video-spec-builder) - 把"我想做个视频"逼成精确到秒的分镜脚本。
+- [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - 把粗糙点子改写成可直接用的文生视频提示词。
+- [brag](https://github.com/latent-spaces/brag) - 项目做完了？一条命令生成炫耀用的发布短片。
 
-## 上游 awesome 列表
+## 角色与游戏
 
-通用：
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐79k
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐50k
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐37k
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐16k
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐10k
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐5.2k（中文指南）
+- [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 77 个游戏开发 skill，覆盖 Godot、Unity、Unreal、Phaser、Bevy 等。
+- [sprite-gen](https://github.com/aldegad/sprite-gen) - 干净的 2D 游戏精灵图和动画图集。
+- [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - 一张插画生成可用于 MMD 的 3D 角色。
+- [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - 一张插画生成 VTube Studio 可用的半身 Live2D 形象。
+- [blender-LPM-skill](https://github.com/ozanzeng/blender-LPM-skill) - 在 Blender 里做平涂低多边形模型。
+- [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - 用 Three.js 做 WebGPU 应用。
+- [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - 用你的照片生成响应式 3D 翻页相册网站。
+- [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌。
 
-设计：
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) ⭐3.6k — 67 个 DESIGN.md / SKILL.md 设计系统
+## 设计品味
 
-## 许可
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - UI/UX 设计智能，带风格、配色、字体搭配大库。
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) - 美术指导、参考图加浏览器自检，告别千篇一律的 AI 风。
+- [impeccable](https://github.com/pbakaus/impeccable) - 给 agent 的设计词汇表：polish、bolder、critique、audit。
+- [unslop](https://github.com/heydamir/unslop) - 把 vibecoded 的 AI 脸 UI 改成真正设计过的界面。
+- [huashu-design](https://github.com/alchaincyf/huashu-design) - 花叔设计：一句话拿回能交付的网页、App 原型、PPTX、动画、信息图。
+- [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - 有辨识度、可上线的前端界面，Anthropic 官方。
+- [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) - 给幻灯片、文档、网页套现成主题，Anthropic 官方。
+- [motionsites](https://github.com/Motionsites-AI/claude-skill) - 电影感、获奖级的落地页。
+- [ui-motion-skill](https://github.com/linyi-ui/ui-motion-skill) - 高级 UI 动效和微交互。
+- [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - 杂志风和瑞士风 HTML 幻灯片。
+- [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 小红书轮播图和公众号封面组合。
+- [visual-explainer](https://github.com/nicobailon/visual-explainer) - 把 diff、计划、数据表做成好看的 HTML 页面或幻灯片。
 
-[CC0 1.0](LICENSE)：本列表放弃所有权利，随意使用。各 skill 版权与许可归原作者。
+## 故事与写作
+
+- [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - AI 写网文全流程：扫榜选材、拆解爆款、大纲细纲、伏笔追踪、封面。
+- [khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克的 skill 合集，含 leader、洁癖、卡兹克文风等。
+
+## Skill 玩 Skill
+
+- [darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill：评估、改进、测试、保留或回滚，让 skill 自己进化。
+- [self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) - 从会话里识别来之不易的最佳路径，存成 skill。
+- [replica-skill](https://github.com/Jakeschincariol/replica-skill) - 逆向任意 app、重建，再修掉用户吐槽的问题。
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - 编写、测试、调优新 skill，Anthropic 官方。
+
+## 相关列表
+
+- [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) - Claude skills、资源和工具。
+- [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 数千个可复用 agent skill，带 CLI 和 MCP。
+- [awesome-agent-skills (VoltAgent)](https://github.com/VoltAgent/awesome-agent-skills) - 官方团队和社区的 agent skills。
+- [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - 偏 Claude Code 的 Claude skills。
+- [awesome-agent-skills (libukai)](https://github.com/libukai/awesome-agent-skills) - Agent Skills 中文指南与精选。
+- [awesome-design-skills](https://github.com/bergside/awesome-design-skills) - DESIGN.md 和 SKILL.md 设计系统。
+
+## 参与贡献
+
+见 [contributing.md](contributing.md)。

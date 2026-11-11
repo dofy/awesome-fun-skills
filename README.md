@@ -1,88 +1,132 @@
-# Awesome Fun Skills
+# Awesome Fun Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 English | [简体中文](README.zh-CN.md)
 
-> A curated list of fun, opinionated, playful Agent Skills. No "yet another coding-style skill" allowed.
-> Star counts as of 2026-11-11. Sorted by fun, not by stars.
+> Agent skills with a personality, a gimmick, or a delightful output, for Claude Code, Codex, Cursor and other agents.
 
-Criteria:
-- Has a gimmick, a personality, or produces something fun (images, motion, video, characters)
-- Still maintained (commits within the last 3 months)
-- Works out of the box in at least one agent: Claude Code / Codex / Cursor, etc.
+Not here: yet another coding-style skill. Here: skills that change how your agent talks, borrow someone's brain, draw, animate, play games, or improve themselves.
 
-## 🧠 Personality & Voice
+## Contents
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 119k | Why use many token when few token do trick. Talk like a caveman, save tokens |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 189k | Your agent thinks like the laziest senior dev in the room: the best code is code never written |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 61k | Stop burying the answer in paragraph five. ADHD-friendly output |
-| [blader/humanizer](https://github.com/blader/humanizer) | 68k | Removes signs of AI-generated writing |
+- [Personality and Voice](#personality-and-voice)
+- [Grill Me](#grill-me)
+- [Distill a Person](#distill-a-person)
+- [Draw Something](#draw-something)
+- [Motion and Video](#motion-and-video)
+- [Characters and Games](#characters-and-games)
+- [Design Taste](#design-taste)
+- [Stories and Writing](#stories-and-writing)
+- [Skills That Play With Skills](#skills-that-play-with-skills)
 
-## 🧬 Distill a Person
+## Personality and Voice
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 38k | Nuwa: distill anyone's mental models, decision heuristics, and voice |
-| [titanwings/distilly](https://github.com/titanwings/distilly) | 27k | Formerly "Colleague.skill": put your coworker's way of thinking into a bot |
-| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 11k | Zhang Xuefeng.skill, a Nuwa-generated advisor for college admissions and careers (Chinese) |
-| [tmstack/awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) | 4.6k | Coworker / boss / ex / yourself / immortal.skill collection (Chinese) |
-| [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) | 3.1k | Writing DNA distiller: clone any writing style |
-| [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 13k | Cangjie: distill books, long videos, and podcasts into executable skills |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 38k | Turn a technical book PDF into a skill |
+- [caveman](https://github.com/JuliusBrussee/caveman) - Why use many token when few token do trick. Makes the agent talk like a caveman to save tokens.
+- [ponytail](https://github.com/DietrichGebert/ponytail) - Makes the agent think like the laziest senior dev in the room: the best code is code never written.
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd) - Stops the agent from burying the answer in paragraph five.
+- [humanizer](https://github.com/blader/humanizer) - Removes signs of AI-generated writing from text.
+- [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) - Strips hedging and defensive phrasing from prose.
+- [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - Writes in Louis Rossmann's voice instead of AI slop.
+- [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Answers hard questions with a single readable HTML page instead of a wall of text.
 
-## 🎨 Draw Something Fun
+## Grill Me
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 27k | Interactive isometric cutaways of real machines and complex systems |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 95k | Any idea, plan, or codebase into a beautiful interactive diagram |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 66k | Editorial, magazine-style diagrams, 45 types |
-| [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 13k | Quirky hand-drawn "Xiaohei" illustrations, white background with red/orange/blue notes |
-| [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | 7.5k | Quiet, minimal zine-style posters |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 6.7k | 35 art styles, make paintings move with code |
-| [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | 6.5k | Logo design from principles to SVG craft |
+- [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) - Interviews you relentlessly until you and the agent share one understanding of the plan.
+- [llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - Runs a decision through five AI advisors who peer-review each other.
+- [roast-room](https://github.com/nateherkai/roast-room) - Seven famous-founder advisors debate and roast your business idea.
+- [founder-skill](https://github.com/Jakeschincariol/founder-skill) - A board trained on Hormozi, Thiel and Jobs stress-tests a business before launch.
+- [vibe-check](https://github.com/TexasBedouin/vibe-check) - Takes a vague idea to a buildable plan, then grills it.
+- [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - Turns AI-assisted coding sessions into deliberate practice for the human.
 
-## 💅 Design Taste (Anti AI Slop)
+## Distill a Person
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 148k | UI/UX design intelligence: huge library of styles, palettes, font pairings |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 113k | Gives agents taste: art direction, reference images, browser self-check |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 108k | Design vocabulary: polish / bolder / critique / audit, catches AI slop |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 14k | Turns vibecoded, AI-looking UI into a designed interface |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 30k | Editorial magazine and Swiss-style HTML slide decks |
-| [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 11k | Diffs, plans, and data tables as rich HTML explainer pages |
+- [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - Distills anyone's mental models, decision heuristics and voice into a skill.
+- [distilly](https://github.com/titanwings/distilly) - Formerly "Colleague.skill". Puts a coworker's way of thinking into a bot.
+- [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - A Nuwa-generated advisor for college admissions and careers, modeled on Zhang Xuefeng (Chinese).
+- [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) - Coworker, boss, ex, yourself and immortal skills in one collection (Chinese).
+- [cyber-figures](https://github.com/cyber-immortal/cyber-figures) - Distills the most recognizable Chinese internet personalities into skills (Chinese).
+- [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) - Distills and recreates any writing style.
+- [cangjie-skill](https://github.com/kangarooking/cangjie-skill) - Distills books, long videos and podcasts into executable skills.
+- [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turns a technical book PDF into a skill you can study and reference.
 
-## 🎬 Show Off & Play
+## Draw Something
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [latent-spaces/brag](https://github.com/latent-spaces/brag) | 21k | Built it? Now brag. One command makes a shareable launch video |
-| [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 8.5k | Full web-novel pipeline: chart scanning, hit teardown, foreshadowing tracking, de-AI (Chinese) |
-| [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 8.2k | 77 game-dev skills: Godot / Unity / Phaser / Bevy … |
-| [daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) | 314 | Tarot reading: 78 card meanings, 6 spreads, true-random draws (Chinese) |
+- [anatomy](https://github.com/wheresryan22/anatomy) - Interactive isometric cutaways of real machines and complex systems.
+- [system-atlas](https://github.com/inkboard/system-atlas) - Turns an architecture discussion into an explorable isometric atlas.
+- [archify](https://github.com/tt-a1i/archify) - Turns any idea, plan or codebase into an interactive diagram.
+- [diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial, magazine-style diagrams in 45 types.
+- [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - Hand-drawn, animated architecture diagrams.
+- [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - Turns one JSON file into an always-running, terminal-style animated diagram.
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - Quirky hand-drawn "Xiaohei" article illustrations with red, orange and blue notes.
+- [ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) - Xiaohei 2.0: real-object scenes and long-scroll story images.
+- [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Quiet, minimal zine-style editorial posters.
+- [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - Turns everyday photos into poetic white-paper hand drawings.
+- [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - Distills photographs into sparse editorial abstractions.
+- [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - Turns travel photos into collectible sticker cards.
+- [guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) - Turns Chinese architecture and travel photos into art-directed editorial pieces.
+- [xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) - Cinematic Eastern xianxia stills, celestial realms and sky megastructures.
+- [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - Logo design from principles and process to SVG craft.
+- [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - Generative art with p5.js, from Anthropic.
+- [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Posters and visual art as PNG and PDF, from Anthropic.
+- [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Animated GIFs sized for Slack, from Anthropic.
 
-## 🧪 Skills That Play With Skills
+## Motion and Video
 
-| Skill | ⭐ | What it does |
-|---|---|---|
-| [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) | 6.9k | Darwin: evaluate, improve, test, keep or roll back. Skills that evolve themselves |
-| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 8.8k | Reverse-engineer any app, rebuild it, find bugs, fix what users complain about |
+- [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - Makes paintings move with code, in 35 art styles.
+- [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 code animation styles with reference frames and an offline picker.
+- [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Animated story shorts with 2D characters in a 3D world, built on three.js and Remotion.
+- [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - Topic in, narrated explainer video out.
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - Cinematic, editable product promos with Remotion shot recipes.
+- [video-spec-builder](https://github.com/feicaiclub/video-spec-builder) - Forces "I want a video" into a storyboard precise to the second.
+- [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrites rough ideas into model-ready text-to-video prompts.
+- [brag](https://github.com/latent-spaces/brag) - Turns the project you just built into a short launch video with one command.
 
-## Upstream Awesome Lists
+## Characters and Games
 
-General:
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐79k
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐50k
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐37k
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐16k
-- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐10k
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐5.2k (Chinese guide)
+- [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 77 game development skills for Godot, Unity, Unreal, Phaser, Bevy and more.
+- [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
+- [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - Builds an MMD-ready 3D character from one illustration.
+- [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - Turns one illustration into a half-body Live2D avatar for VTube Studio.
+- [blender-LPM-skill](https://github.com/ozanzeng/blender-LPM-skill) - Flat-shaded low-poly models in Blender.
+- [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - WebGPU applications with Three.js.
+- [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - Responsive 3D photo flipbook websites from your images.
+- [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - Tarot readings with 78 card meanings, 6 spreads and true-random draws (Chinese).
 
-Design:
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) ⭐3.6k — 67 DESIGN.md / SKILL.md design systems
+## Design Taste
 
-## License
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - Design intelligence with a large library of styles, palettes and font pairings.
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) - Art direction, reference images and a browser check instead of generic AI patterns.
+- [impeccable](https://github.com/pbakaus/impeccable) - A design vocabulary for the agent: polish, bolder, critique, audit.
+- [unslop](https://github.com/heydamir/unslop) - Turns vibecoded, AI-looking UI into a designed interface.
+- [huashu-design](https://github.com/alchaincyf/huashu-design) - One sentence in, deliverable design out: web, app prototypes, PPTX, animation, infographics.
+- [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Distinctive, production-grade frontend interfaces, from Anthropic.
+- [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) - Applies ready-made themes to slides, docs and pages, from Anthropic.
+- [motionsites](https://github.com/Motionsites-AI/claude-skill) - Cinematic, award-style landing pages.
+- [ui-motion-skill](https://github.com/linyi-ui/ui-motion-skill) - Polished UI motion and micro-interactions (Chinese).
+- [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - Editorial magazine and Swiss-style HTML slide decks.
+- [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - Xiaohongshu carousels and WeChat cover pairs.
+- [visual-explainer](https://github.com/nicobailon/visual-explainer) - Diffs, plans and data tables as rich HTML pages or slides.
 
-[CC0 1.0](LICENSE): this list waives all rights, use it freely. Each skill belongs to its own authors under its own license.
+## Stories and Writing
+
+- [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - Web-novel pipeline: trend scanning, hit teardowns, outlines, foreshadowing tracking and covers (Chinese).
+- [khazix-skills](https://github.com/KKKKhazix/khazix-skills) - Skills with character, including leader, neat-freak and a house writing style (Chinese).
+
+## Skills That Play With Skills
+
+- [darwin-skill](https://github.com/alchaincyf/darwin-skill) - Evaluate, improve, test, keep or roll back: skills that evolve themselves.
+- [self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) - Recognizes a hard-won golden path in a session and saves it as a skill.
+- [replica-skill](https://github.com/Jakeschincariol/replica-skill) - Reverse-engineers any app, rebuilds it, then fixes what its users complain about.
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Writes, tests and tunes new skills, from Anthropic.
+
+## Related Lists
+
+- [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) - Claude skills, resources and tools.
+- [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Thousands of reusable agent skills with a CLI and MCP.
+- [awesome-agent-skills (VoltAgent)](https://github.com/VoltAgent/awesome-agent-skills) - Agent skills from official teams and the community.
+- [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - Claude skills, focused on Claude Code.
+- [awesome-agent-skills (libukai)](https://github.com/libukai/awesome-agent-skills) - Agent skills guide and picks (Chinese).
+- [awesome-design-skills](https://github.com/bergside/awesome-design-skills) - DESIGN.md and SKILL.md design systems.
+
+## Contributing
+
+See [contributing.md](contributing.md).
