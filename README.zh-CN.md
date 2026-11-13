@@ -93,6 +93,7 @@
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - 用你的照片生成响应式 3D 翻页相册网站。
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - 一张插画生成可用于 MMD 的 3D 角色。
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - 一张插画生成 VTube Studio 可用的半身 Live2D 形象。
+- [pixel-path](https://github.com/jonwheatley/pixel-path) - 把真实路线变成可交互的像素风穿行页面，可用免费占位素材或付费 RetroDiffusion 美术素材。
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - 干净的 2D 游戏精灵图和动画图集。
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌。
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - 用 Three.js 做 WebGPU 应用。

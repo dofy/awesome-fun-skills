@@ -93,6 +93,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - Responsive 3D photo flipbook websites from your images.
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - Builds an MMD-ready 3D character from one illustration.
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - Turns one illustration into a half-body Live2D avatar for VTube Studio.
+- [pixel-path](https://github.com/jonwheatley/pixel-path) - Turns real routes into interactive pixel-art fly-throughs, with free placeholder art or paid RetroDiffusion scenery.
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - Tarot readings with 78 card meanings, 6 spreads and true-random draws (Chinese).
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - WebGPU applications with Three.js.
