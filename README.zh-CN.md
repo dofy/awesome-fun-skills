@@ -60,6 +60,7 @@
 - [archify](https://github.com/tt-a1i/archify) - 把任何想法、计划或代码库变成交互图。
 - [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - 输出 PNG 和 PDF 的海报与视觉作品，Anthropic 官方。
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) - 杂志风编辑式图表，45 种类型。
+- [diorama](https://github.com/educlopez/diorama) - 用 SVG、Three.js 和像素艺术技能制作动画微缩世界，输出可交互的独立 HTML。
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - 安静极简的 zine 风海报。
 - [guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) - 营造.skill：把中国建筑和旅行照片变成有美术指导的编辑作品。
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 小黑怪诞手绘配图，白底加红橙蓝批注。
@@ -94,6 +95,7 @@
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - 一张插画生成可用于 MMD 的 3D 角色。
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - 一张插画生成 VTube Studio 可用的半身 Live2D 形象。
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - 把真实路线变成可交互的像素风穿行页面，可用免费占位素材或付费 RetroDiffusion 美术素材。
+- [pixelfx](https://github.com/patch-gg/pixelfx) - 用代码创作和改编像素特效，再导出游戏引擎可用的精灵图集。
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - 干净的 2D 游戏精灵图和动画图集。
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌。
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - 用 Three.js 做 WebGPU 应用。

@@ -60,6 +60,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [archify](https://github.com/tt-a1i/archify) - Turns any idea, plan or codebase into an interactive diagram.
 - [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Posters and visual art as PNG and PDF, from Anthropic.
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial, magazine-style diagrams in 45 types.
+- [diorama](https://github.com/educlopez/diorama) - Builds animated, interactive miniature worlds as self-contained HTML, with SVG, Three.js and pixel-art skills.
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Quiet, minimal zine-style editorial posters.
 - [guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) - Turns Chinese architecture and travel photos into art-directed editorial pieces.
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - Quirky hand-drawn "Xiaohei" article illustrations with red, orange and blue notes.
@@ -94,6 +95,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - Builds an MMD-ready 3D character from one illustration.
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - Turns one illustration into a half-body Live2D avatar for VTube Studio.
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - Turns real routes into interactive pixel-art fly-throughs, with free placeholder art or paid RetroDiffusion scenery.
+- [pixelfx](https://github.com/patch-gg/pixelfx) - Creates and remixes pixel-art effects in code, then exports sprite sheets for game engines.
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - Tarot readings with 78 card meanings, 6 spreads and true-random draws (Chinese).
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - WebGPU applications with Three.js.
