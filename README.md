@@ -94,6 +94,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - Responsive 3D photo flipbook websites from your images.
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - Builds an MMD-ready 3D character from one illustration.
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - Turns one illustration into a half-body Live2D avatar for VTube Studio.
+- [origami-3dfolder-ai](https://github.com/lejrimostfa/Origami-3Dfolder-ai) - Paints papercraft dielines with AI, then folds them in Blender into textured low-poly GLB assets with fold animations.
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - Turns real routes into interactive pixel-art fly-throughs, with free placeholder art or paid RetroDiffusion scenery.
 - [pixelfx](https://github.com/patch-gg/pixelfx) - Creates and remixes pixel-art effects in code, then exports sprite sheets for game engines.
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
