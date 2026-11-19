@@ -82,6 +82,7 @@
 - [brag](https://github.com/latent-spaces/brag) - 项目做完了？一条命令生成炫耀用的发布短片。
 - [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - 3D 世界里的 2D 角色动画短片，基于 three.js 和 Remotion。
 - [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 种代码动画风格，带参考静帧和离线挑选器。
+- [fun-isometric](https://github.com/kelvinkn17/skills/tree/main/skills/fun-isometric) - 把文字描述做成等距动画贴纸，支持关键帧动画和循环视频导出。
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - 35 种艺术风格，用代码让画动起来。
 - [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - 把粗糙点子改写成可直接用的文生视频提示词。
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - 基于 Remotion 镜头配方的电影感可编辑产品宣传片。

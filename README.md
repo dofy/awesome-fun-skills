@@ -82,6 +82,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [brag](https://github.com/latent-spaces/brag) - Turns the project you just built into a short launch video with one command.
 - [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Animated story shorts with 2D characters in a 3D world, built on three.js and Remotion.
 - [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 code animation styles with reference frames and an offline picker.
+- [fun-isometric](https://github.com/kelvinkn17/skills/tree/main/skills/fun-isometric) - Draws isometric stickers from a prompt, animates them with keyframes, and exports looping video.
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - Makes paintings move with code, in 35 art styles.
 - [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrites rough ideas into model-ready text-to-video prompts.
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - Cinematic, editable product promos with Remotion shot recipes.
