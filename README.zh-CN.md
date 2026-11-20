@@ -95,11 +95,13 @@
 - [blender-LPM-skill](https://github.com/ozanzeng/blender-LPM-skill) - 在 Blender 里做平涂低多边形模型。
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - 用你的照片生成响应式 3D 翻页相册网站。
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - 一张插画生成可用于 MMD 的 3D 角色。
+- [interactive-fiction-studio](https://github.com/acatovic/wyrd-ai) - 制作可在浏览器游玩的第一人称文字冒险，支持自然语言指令。
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - 一张插画生成 VTube Studio 可用的半身 Live2D 形象。
 - [origami-3dfolder-ai](https://github.com/lejrimostfa/Origami-3Dfolder-ai) - 用 AI 为纸模展开图上色，再在 Blender 中折成带折叠动画的低多边形 GLB 素材。
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - 把真实路线变成可交互的像素风穿行页面，可用免费占位素材或付费 RetroDiffusion 美术素材。
 - [pixelfx](https://github.com/patch-gg/pixelfx) - 用代码创作和改编像素特效，再导出游戏引擎可用的精灵图集。
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - 干净的 2D 游戏精灵图和动画图集。
+- [spritecast](https://github.com/Sunghwan0112/spritecast) - 用 3D 姿态约束每帧，把一张角色插画变成八方向游戏精灵图。
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌。
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - 用 Three.js 做 WebGPU 应用。
 
