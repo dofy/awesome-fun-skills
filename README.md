@@ -79,6 +79,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 ## Motion and Video
 
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - Topic in, narrated explainer video out.
+- [ascii-motion](https://github.com/zgyk4167/ascii-motion) - Creates animated ASCII scenes and bundles them into a self-contained HTML file.
 - [brag](https://github.com/latent-spaces/brag) - Turns the project you just built into a short launch video with one command.
 - [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Animated story shorts with 2D characters in a 3D world, built on three.js and Remotion.
 - [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 code animation styles with reference frames and an offline picker.

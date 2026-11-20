@@ -79,6 +79,7 @@
 ## 动画与视频
 
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - 输入话题，输出带旁白的讲解视频。
+- [ascii-motion](https://github.com/zgyk4167/ascii-motion) - 创作 ASCII 字符动画场景，打包成可独立打开的 HTML 文件。
 - [brag](https://github.com/latent-spaces/brag) - 项目做完了？一条命令生成炫耀用的发布短片。
 - [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - 3D 世界里的 2D 角色动画短片，基于 three.js 和 Remotion。
 - [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 种代码动画风格，带参考静帧和离线挑选器。
