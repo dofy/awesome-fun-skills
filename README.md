@@ -55,6 +55,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 
 ## Draw Something
 
+- [agi-stylist](https://github.com/scpedicini/agi-stylist) - Turns prompts or sketches into editable 16-color adventure-game scenes that paint themselves stroke by stroke.
 - [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - Generative art with p5.js, from Anthropic.
 - [anatomy](https://github.com/wheresryan22/anatomy) - Interactive isometric cutaways of real machines and complex systems.
 - [archify](https://github.com/tt-a1i/archify) - Turns any idea, plan or codebase into an interactive diagram.

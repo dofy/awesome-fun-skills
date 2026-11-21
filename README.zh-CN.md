@@ -55,6 +55,7 @@
 
 ## 画点什么
 
+- [agi-stylist](https://github.com/scpedicini/agi-stylist) - 把文字描述或草图变成可编辑的 16 色复古冒险游戏场景，在浏览器里逐笔绘制。
 - [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - 用 p5.js 做生成艺术，Anthropic 官方。
 - [anatomy](https://github.com/wheresryan22/anatomy) - 真实机器和复杂系统的交互式等距剖面图。
 - [archify](https://github.com/tt-a1i/archify) - 把任何想法、计划或代码库变成交互图。
