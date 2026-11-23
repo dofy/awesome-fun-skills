@@ -69,6 +69,7 @@
 - [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - 手绘风动态架构图。
 - [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - 一个 JSON 生成一直在跑的终端风动态图。
 - [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - 从原则、流程到 SVG 手艺的 logo 设计。
+- [papercraft](https://github.com/xikhar/papercraft) - 制作像立体纸艺书一样展开的游戏和交互场景。
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - 把日常照片变成诗意的白纸手绘。
 - [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - 将照片转成 NES、Game Boy 或 PICO-8 配色的像素画，还能添加雨雪效果，导出循环 GIF 或 MP4。
 - [site-to-map](https://github.com/dofy/site-to-map) - 把个人主页或导航站变成折纸风 3D 地图，分类是城，链接是建筑。
@@ -103,6 +104,7 @@
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - 把真实路线变成可交互的像素风穿行页面，可用免费占位素材或付费 RetroDiffusion 美术素材。
 - [pixelfx](https://github.com/patch-gg/pixelfx) - 用代码创作和改编像素特效，再导出游戏引擎可用的精灵图集。
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - 干净的 2D 游戏精灵图和动画图集。
+- [sprite-stacking](https://github.com/danielwh2/sprite-stacking) - 把四张像素画视图切片叠成可旋转的伪 3D 游戏精灵。
 - [spritecast](https://github.com/Sunghwan0112/spritecast) - 用 3D 姿态约束每帧，把一张角色插画变成八方向游戏精灵图。
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - 塔罗占卜：78 张牌义、6 种牌阵、真随机抽牌。
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - 用 Three.js 做 WebGPU 应用。

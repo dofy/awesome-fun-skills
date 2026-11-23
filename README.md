@@ -69,6 +69,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - Hand-drawn, animated architecture diagrams.
 - [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - Turns one JSON file into an always-running, terminal-style animated diagram.
 - [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - Logo design from principles and process to SVG craft.
+- [papercraft](https://github.com/xikhar/papercraft) - Builds games and interactive scenes that unfold like a paper pop-up book.
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - Turns everyday photos into poetic white-paper hand drawings.
 - [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - Turns photos into NES, Game Boy or PICO-8 pixel art and adds animated rain or snow for looping GIFs or MP4s.
 - [site-to-map](https://github.com/dofy/site-to-map) - Turns a personal homepage or navigation site into a folded-paper 3D map where categories are towns and links are buildings.
@@ -103,6 +104,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - Turns real routes into interactive pixel-art fly-throughs, with free placeholder art or paid RetroDiffusion scenery.
 - [pixelfx](https://github.com/patch-gg/pixelfx) - Creates and remixes pixel-art effects in code, then exports sprite sheets for game engines.
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
+- [sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Stacks slices from four pixel-art views into rotatable faux-3D game sprites.
 - [spritecast](https://github.com/Sunghwan0112/spritecast) - Turns one character illustration into eight-direction game sprite sheets guided by 3D poses.
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - Tarot readings with 78 card meanings, 6 spreads and true-random draws (Chinese).
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - WebGPU applications with Three.js.
