@@ -70,6 +70,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - Turns one JSON file into an always-running, terminal-style animated diagram.
 - [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - Logo design from principles and process to SVG craft.
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - Turns everyday photos into poetic white-paper hand drawings.
+- [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - Turns photos into NES, Game Boy or PICO-8 pixel art and adds animated rain or snow for looping GIFs or MP4s.
 - [site-to-map](https://github.com/dofy/site-to-map) - Turns a personal homepage or navigation site into a folded-paper 3D map where categories are towns and links are buildings.
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Animated GIFs sized for Slack, from Anthropic.
 - [system-atlas](https://github.com/inkboard/system-atlas) - Turns an architecture discussion into an explorable isometric atlas.
