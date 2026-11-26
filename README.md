@@ -21,13 +21,48 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 ## Personality and Voice
 
 - [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Answers hard questions with a single readable HTML page instead of a wall of text.
+
+  ```bash
+  npx skills add QingYunA/answer-me-with-html
+  ```
+
 - [anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) - Strips hedging and defensive phrasing from prose.
+
+  ```bash
+  npx skills add https://github.com/kiterlin/anti-defensive-writing --skill anti-defensive-writing
+  ```
+
 - [caveman](https://github.com/JuliusBrussee/caveman) - Why use many token when few token do trick. Makes the agent talk like a caveman to save tokens.
+
+  ```bash
+  npx skills add https://github.com/juliusbrussee/caveman --skill caveman
+  ```
+
 - [humanizer](https://github.com/blader/humanizer) - Removes signs of AI-generated writing from text.
+
+  ```bash
+  npx skills add https://github.com/blader/humanizer --skill humanizer
+  ```
+
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Chinese edition of humanizer that removes signs of AI-generated writing (Chinese).
+
+  ```bash
+  npx skills add https://github.com/op7418/humanizer-zh --skill humanizer-zh
+  ```
+
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) - Stops the agent from burying the answer in paragraph five.
+
+  ```bash
+  npx skills add https://github.com/ayghri/i-have-adhd --skill i-have-adhd
+  ```
+
 - [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - Writes in Louis Rossmann's voice instead of AI slop.
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Makes the agent think like the laziest senior dev in the room: the best code is code never written.
+
+  ```bash
+  npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail
+  ```
+
 
 ## Grill Me
 
@@ -35,96 +70,346 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [dbskill](https://github.com/dontbesilent2025/dbskill) - Blunt business diagnosis in dontbesilent's style (Chinese).
 - [founder-skill](https://github.com/Jakeschincariol/founder-skill) - A board trained on Hormozi, Thiel and Jobs stress-tests a business before launch.
 - [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) - Interviews you relentlessly until you and the agent share one understanding of the plan.
+
+  ```bash
+  npx skills add https://github.com/mattpocock/skills --skill grill-me
+  ```
+
 - [learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - Turns AI-assisted coding sessions into deliberate practice for the human.
+
+  ```bash
+  npx skills add https://github.com/drcathicks/learning-opportunities --skill learning-opportunities
+  ```
+
 - [llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - Runs a decision through five AI advisors who peer-review each other.
+
+  ```bash
+  npx skills add https://github.com/aiwithremy/claude-skills-llm-council --skill llm-council
+  ```
+
 - [roast-room](https://github.com/nateherkai/roast-room) - Seven famous-founder advisors debate and roast your business idea.
+
+  ```bash
+  npx skills add https://github.com/nateherkai/roast-room --skill roast-room
+  ```
+
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Takes a vague idea to a buildable plan, then grills it.
+
+  ```bash
+  npx skills add https://github.com/texasbedouin/vibe-check --skill vibe-check
+  ```
+
 
 ## Distill a Person
 
 - [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) - Coworker, boss, ex, yourself and immortal skills in one collection (Chinese).
 - [best-minds](https://github.com/Agentchengfeng/best-minds) - Asks who in the world knows this best, then answers as they would (Chinese).
+
+  ```bash
+  npx skills add https://github.com/agentchengfeng/best-minds --skill best-minds
+  ```
+
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turns a technical book PDF into a skill you can study and reference.
+
+  ```bash
+  npx skills add https://github.com/virgiliojr94/book-to-skill --skill book-to-skill
+  ```
+
 - [cangjie-skill](https://github.com/kangarooking/cangjie-skill) - Distills books, long videos and podcasts into executable skills.
+
+  ```bash
+  npx skills add https://github.com/kangarooking/cangjie-skill --skill cangjie-skill
+  ```
+
 - [cyber-figures](https://github.com/cyber-immortal/cyber-figures) - Distills the most recognizable Chinese internet personalities into skills (Chinese).
 - [distilly](https://github.com/titanwings/distilly) - Formerly "Colleague.skill". Puts a coworker's way of thinking into a bot.
+
+  ```bash
+  npx skills add https://github.com/titanwings/distilly --skill distilly
+  ```
+
 - [minimalist-entrepreneur](https://github.com/slavingia/skills) - Sahil Lavingia's The Minimalist Entrepreneur as skills.
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - Distills anyone's mental models, decision heuristics and voice into a skill.
 - [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) - Distills and recreates any writing style.
+
+  ```bash
+  npx skills add https://github.com/larashero3-dotcom/writing-dna-skill --skill writing-dna-skill
+  ```
+
 - [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - A Nuwa-generated advisor for college admissions and careers, modeled on Zhang Xuefeng (Chinese).
 
 ## Draw Something
 
 - [agi-stylist](https://github.com/scpedicini/agi-stylist) - Turns prompts or sketches into editable 16-color adventure-game scenes that paint themselves stroke by stroke.
 - [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - Generative art with p5.js, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill algorithmic-art
+  ```
+
 - [anatomy](https://github.com/wheresryan22/anatomy) - Interactive isometric cutaways of real machines and complex systems.
+
+  ```bash
+  npx skills add https://github.com/wheresryan22/anatomy --skill anatomy
+  ```
+
 - [archify](https://github.com/tt-a1i/archify) - Turns any idea, plan or codebase into an interactive diagram.
+
+  ```bash
+  npx skills add https://github.com/tt-a1i/archify --skill archify
+  ```
+
 - [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Posters and visual art as PNG and PDF, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill canvas-design
+  ```
+
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial, magazine-style diagrams in 45 types.
+
+  ```bash
+  npx skills add https://github.com/cathrynlavery/diagram-design --skill diagram-design
+  ```
+
 - [diorama](https://github.com/educlopez/diorama) - Builds animated, interactive miniature worlds as self-contained HTML, with SVG, Three.js and pixel-art skills.
+
+  ```bash
+  npx skills add https://github.com/educlopez/diorama --skill diorama
+  ```
+
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Quiet, minimal zine-style editorial posters.
 - [guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) - Turns Chinese architecture and travel photos into art-directed editorial pieces.
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - Quirky hand-drawn "Xiaohei" article illustrations with red, orange and blue notes.
+
+  ```bash
+  npx skills add https://github.com/helloianneo/ian-xiaohei-illustrations --skill ian-xiaohei-illustrations
+  ```
+
 - [ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) - Xiaohei 2.0: real-object scenes and long-scroll story images.
+
+  ```bash
+  npx skills add https://github.com/helloianneo/ian-xiaohei-scenes --skill ian-xiaohei-scenes
+  ```
+
 - [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - Hand-drawn, animated architecture diagrams.
+
+  ```bash
+  npx skills add https://github.com/cclank/lanshu-animated-architecture-diagram --skill lanshu-animated-architecture-diagram
+  ```
+
 - [live-panel-skill](https://github.com/ythx-101/live-panel-skill) - Turns one JSON file into an always-running, terminal-style animated diagram.
 - [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - Logo design from principles and process to SVG craft.
 - [papercraft](https://github.com/xikhar/papercraft) - Builds games and interactive scenes that unfold like a paper pop-up book.
+
+  ```bash
+  npx skills add https://github.com/xikhar/papercraft --skill papercraft
+  ```
+
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - Turns everyday photos into poetic white-paper hand drawings.
+
+  ```bash
+  npx skills add https://github.com/dacnay816y62-hub/photo-revival --skill photo-revival
+  ```
+
 - [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - Turns photos into NES, Game Boy or PICO-8 pixel art and adds animated rain or snow for looping GIFs or MP4s.
+
+  ```bash
+  npx skills add https://github.com/nousresearch/hermes-agent --skill pixel-art
+  ```
+
 - [site-to-map](https://github.com/dofy/site-to-map) - Turns a personal homepage or navigation site into a folded-paper 3D map where categories are towns and links are buildings.
 - [sketchy](https://github.com/ddkbs/sketchy) - Draws interactive, hand-sketched diagrams in Claude chat with hover details and step-by-step walkthroughs.
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Animated GIFs sized for Slack, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill slack-gif-creator
+  ```
+
 - [system-atlas](https://github.com/inkboard/system-atlas) - Turns an architecture discussion into an explorable isometric atlas.
+
+  ```bash
+  npx skills add https://github.com/inkboard/system-atlas --skill system-atlas
+  ```
+
 - [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - Turns travel photos into collectible sticker cards.
+
+  ```bash
+  npx skills add https://github.com/carolinaaafy/travel-memory-sticker-card --skill travel-memory-sticker-card
+  ```
+
 - [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - Distills photographs into sparse editorial abstractions.
+
+  ```bash
+  npx skills add https://github.com/evianis/travel-photo-abstraction --skill travel-photo-abstraction
+  ```
+
 - [xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) - Cinematic Eastern xianxia stills, celestial realms and sky megastructures.
+
+  ```bash
+  npx skills add https://github.com/liyue-aigc/xianxia-visual-director --skill xianxia-visual-director
+  ```
+
 
 ## Motion and Video
 
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - Topic in, narrated explainer video out.
+
+  ```bash
+  npx skills add https://github.com/vincentwei1021/anything2explainer --skill anything2explainer
+  ```
+
 - [ascii-motion](https://github.com/zgyk4167/ascii-motion) - Creates animated ASCII scenes and bundles them into a self-contained HTML file.
 - [brag](https://github.com/latent-spaces/brag) - Turns the project you just built into a short launch video with one command.
+
+  ```bash
+  npx skills add https://github.com/latent-spaces/brag --skill brag
+  ```
+
 - [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Animated story shorts with 2D characters in a 3D world, built on three.js and Remotion.
 - [code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) - 341 code animation styles with reference frames and an offline picker.
+
+  ```bash
+  npx skills add https://github.com/xiaoyecodes/code-animation-prompts --skill code-animation-prompts
+  ```
+
 - [fun-isometric](https://github.com/kelvinkn17/skills/tree/main/skills/fun-isometric) - Draws isometric stickers from a prompt, animates them with keyframes, and exports looping video.
+
+  ```bash
+  npx skills add https://github.com/kelvinkn17/skills --skill fun-isometric
+  ```
+
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - Makes paintings move with code, in 35 art styles.
+
+  ```bash
+  npx skills add https://github.com/alchaincyf/huashu-art-motion --skill huashu-art-motion
+  ```
+
 - [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrites rough ideas into model-ready text-to-video prompts.
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - Cinematic, editable product promos with Remotion shot recipes.
+
+  ```bash
+  npx skills add https://github.com/vincentwei1021/video-shotcraft --skill video-shotcraft
+  ```
+
 - [video-spec-builder](https://github.com/feicaiclub/video-spec-builder) - Forces "I want a video" into a storyboard precise to the second.
+
+  ```bash
+  npx skills add https://github.com/feicaiclub/video-spec-builder --skill video-spec-builder
+  ```
+
 
 ## Characters and Games
 
 - [awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 77 game development skills for Godot, Unity, Unreal, Phaser, Bevy and more.
 - [blender-LPM-skill](https://github.com/ozanzeng/blender-LPM-skill) - Flat-shaded low-poly models in Blender.
+
+  ```bash
+  npx skills add https://github.com/ozanzeng/blender-lpm-skill --skill blender-lpm-skill
+  ```
+
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - Responsive 3D photo flipbook websites from your images.
+
+  ```bash
+  npx skills add https://github.com/haichaolihc/create-photo-flipbook-ui --skill create-photo-flipbook-ui
+  ```
+
 - [cxp-character-forge](https://github.com/CXP-2024/cxp-character-forge) - Builds an MMD-ready 3D character from one illustration.
 - [interactive-fiction-studio](https://github.com/acatovic/wyrd-ai) - Builds browser-playable first-person text adventures with natural-language commands.
 - [live2d-halfbody-skill](https://github.com/bellisji233/live2d-halfbody-skill) - Turns one illustration into a half-body Live2D avatar for VTube Studio.
 - [origami-3dfolder-ai](https://github.com/lejrimostfa/Origami-3Dfolder-ai) - Paints papercraft dielines with AI, then folds them in Blender into textured low-poly GLB assets with fold animations.
 - [pixel-path](https://github.com/jonwheatley/pixel-path) - Turns real routes into interactive pixel-art fly-throughs, with free placeholder art or paid RetroDiffusion scenery.
+
+  ```bash
+  npx skills add https://github.com/jonwheatley/pixel-path --skill pixel-path
+  ```
+
 - [pixelfx](https://github.com/patch-gg/pixelfx) - Creates and remixes pixel-art effects in code, then exports sprite sheets for game engines.
+
+  ```bash
+  npx skills add https://github.com/patch-gg/pixelfx --skill pixelfx
+  ```
+
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Clean 2D game sprites and animation atlases.
+
+  ```bash
+  npx skills add https://github.com/aldegad/sprite-gen --skill sprite-gen
+  ```
+
 - [sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Stacks slices from four pixel-art views into rotatable faux-3D game sprites.
+
+  ```bash
+  npx skills add https://github.com/danielwh2/sprite-stacking --skill sprite-stacking
+  ```
+
 - [spritecast](https://github.com/Sunghwan0112/spritecast) - Turns one character illustration into eight-direction game sprite sheets guided by 3D poses.
+
+  ```bash
+  npx skills add https://github.com/sunghwan0112/spritecast --skill spritecast
+  ```
+
 - [tarot-skill](https://github.com/daman-ovo-0404/tarot-skill) - Tarot readings with 78 card meanings, 6 spreads and true-random draws (Chinese).
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - WebGPU applications with Three.js.
 
 ## Design Taste
 
 - [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - Turns any codebase into an interactive single-page HTML course.
+
+  ```bash
+  npx skills add https://github.com/zarazhangrui/codebase-to-course --skill codebase-to-course
+  ```
+
 - [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Distinctive, production-grade frontend interfaces, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill frontend-design
+  ```
+
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - Editorial magazine and Swiss-style HTML slide decks.
+
+  ```bash
+  npx skills add https://github.com/op7418/guizang-ppt-skill --skill guizang-ppt-skill
+  ```
+
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - Xiaohongshu carousels and WeChat cover pairs.
+
+  ```bash
+  npx skills add https://github.com/op7418/guizang-social-card-skill --skill guizang-social-card-skill
+  ```
+
 - [huashu-design](https://github.com/alchaincyf/huashu-design) - One sentence in, deliverable design out: web, app prototypes, PPTX, animation, infographics.
+
+  ```bash
+  npx skills add https://github.com/alchaincyf/huashu-design --skill huashu-design
+  ```
+
 - [impeccable](https://github.com/pbakaus/impeccable) - A design vocabulary for the agent: polish, bolder, critique, audit.
+
+  ```bash
+  npx skills add https://github.com/pbakaus/impeccable --skill impeccable
+  ```
+
 - [motionsites](https://github.com/Motionsites-AI/claude-skill) - Cinematic, award-style landing pages.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Art direction, reference images and a browser check instead of generic AI patterns.
 - [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) - Applies ready-made themes to slides, docs and pages, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill theme-factory
+  ```
+
 - [ui-motion-skill](https://github.com/linyi-ui/ui-motion-skill) - Polished UI motion and micro-interactions (Chinese).
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - Design intelligence with a large library of styles, palettes and font pairings.
 - [unslop](https://github.com/heydamir/unslop) - Turns vibecoded, AI-looking UI into a designed interface.
+
+  ```bash
+  npx skills add https://github.com/heydamir/unslop --skill unslop
+  ```
+
 - [visual-explainer](https://github.com/nicobailon/visual-explainer) - Diffs, plans and data tables as rich HTML pages or slides.
+
+  ```bash
+  npx skills add https://github.com/nicobailon/visual-explainer --skill visual-explainer
+  ```
+
 
 ## Stories and Writing
 
@@ -134,9 +419,19 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 ## Skills That Play With Skills
 
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) - Evaluate, improve, test, keep or roll back: skills that evolve themselves.
+
+  ```bash
+  npx skills add https://github.com/alchaincyf/darwin-skill --skill darwin-skill
+  ```
+
 - [replica-skill](https://github.com/Jakeschincariol/replica-skill) - Reverse-engineers any app, rebuilds it, then fixes what its users complain about.
 - [self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) - Recognizes a hard-won golden path in a session and saves it as a skill.
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Writes, tests and tunes new skills, from Anthropic.
+
+  ```bash
+  npx skills add https://github.com/anthropics/skills --skill skill-creator
+  ```
+
 
 ## Related Lists
 
