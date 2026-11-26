@@ -73,6 +73,7 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - Turns everyday photos into poetic white-paper hand drawings.
 - [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - Turns photos into NES, Game Boy or PICO-8 pixel art and adds animated rain or snow for looping GIFs or MP4s.
 - [site-to-map](https://github.com/dofy/site-to-map) - Turns a personal homepage or navigation site into a folded-paper 3D map where categories are towns and links are buildings.
+- [sketchy](https://github.com/ddkbs/sketchy) - Draws interactive, hand-sketched diagrams in Claude chat with hover details and step-by-step walkthroughs.
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Animated GIFs sized for Slack, from Anthropic.
 - [system-atlas](https://github.com/inkboard/system-atlas) - Turns an architecture discussion into an explorable isometric atlas.
 - [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - Turns travel photos into collectible sticker cards.

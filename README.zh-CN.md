@@ -73,6 +73,7 @@
 - [photo-revival](https://github.com/dacnay816y62-hub/photo-revival) - 把日常照片变成诗意的白纸手绘。
 - [pixel-art](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art) - 将照片转成 NES、Game Boy 或 PICO-8 配色的像素画，还能添加雨雪效果，导出循环 GIF 或 MP4。
 - [site-to-map](https://github.com/dofy/site-to-map) - 把个人主页或导航站变成折纸风 3D 地图，分类是城，链接是建筑。
+- [sketchy](https://github.com/ddkbs/sketchy) - 在 Claude 对话中绘制交互式手绘图，读者可悬停查看细节，逐步跟随讲解。
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - 适配 Slack 尺寸的动图，Anthropic 官方。
 - [system-atlas](https://github.com/inkboard/system-atlas) - 把架构讨论变成可探索的等距地图集。
 - [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) - 把旅行照片做成可收藏的贴纸卡。
