@@ -307,6 +307,12 @@
   npx skills add https://github.com/ozanzeng/blender-lpm-skill --skill blender-lpm-skill
   ```
 
+- [building-era-authentic-game-audio](https://github.com/abagames/agentic-gamedev-skills/tree/HEAD/.agents/skills/building-era-authentic-game-audio) - 按游戏事件编排复古街机配乐与音效，在有限声部中协调循环音乐、提示音和短乐句。
+
+  ```bash
+  npx skills add https://github.com/abagames/agentic-gamedev-skills --skill building-era-authentic-game-audio
+  ```
+
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - 用你的照片生成响应式 3D 翻页相册网站。
 
   ```bash

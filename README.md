@@ -307,6 +307,12 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
   npx skills add https://github.com/ozanzeng/blender-lpm-skill --skill blender-lpm-skill
   ```
 
+- [building-era-authentic-game-audio](https://github.com/abagames/agentic-gamedev-skills/tree/HEAD/.agents/skills/building-era-authentic-game-audio) - Scores retro arcade games with looping music, sound effects and jingles that respond to gameplay and share a limited set of voices.
+
+  ```bash
+  npx skills add https://github.com/abagames/agentic-gamedev-skills --skill building-era-authentic-game-audio
+  ```
+
 - [create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) - Responsive 3D photo flipbook websites from your images.
 
   ```bash
