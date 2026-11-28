@@ -159,6 +159,12 @@ Not here: yet another coding-style skill. Here: skills that change how your agen
   npx skills add https://github.com/tt-a1i/archify --skill archify
   ```
 
+- [baoyu-comic](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-comic) - Turns educational or biographical material into storyboarded comics with individually editable pages and PDF export.
+
+  ```bash
+  npx skills add https://github.com/JimLiu/baoyu-skills --skill baoyu-comic
+  ```
+
 - [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Posters and visual art as PNG and PDF, from Anthropic.
 
   ```bash

@@ -159,6 +159,12 @@
   npx skills add https://github.com/tt-a1i/archify --skill archify
   ```
 
+- [baoyu-comic](https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-comic) - 将科普或传记素材编成分镜，绘制可逐页修改的漫画，再合并为 PDF。
+
+  ```bash
+  npx skills add https://github.com/JimLiu/baoyu-skills --skill baoyu-comic
+  ```
+
 - [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - 输出 PNG 和 PDF 的海报与视觉作品，Anthropic 官方。
 
   ```bash
